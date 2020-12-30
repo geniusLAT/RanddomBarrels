@@ -1,0 +1,7 @@
+D:\Учёба\2 курс\Прикладное прогрмирование\RanddomBarrels\RandomBarrels\RandomBarrels\bin\Debug\RandomBarrels.exe.config
+D:\Учёба\2 курс\Прикладное прогрмирование\RanddomBarrels\RandomBarrels\RandomBarrels\bin\Debug\RandomBarrels.exe
+D:\Учёба\2 курс\Прикладное прогрмирование\RanddomBarrels\RandomBarrels\RandomBarrels\bin\Debug\RandomBarrels.pdb
+D:\Учёба\2 курс\Прикладное прогрмирование\RanddomBarrels\RandomBarrels\RandomBarrels\obj\Debug\RandomBarrels.csprojAssemblyReference.cache
+D:\Учёба\2 курс\Прикладное прогрмирование\RanddomBarrels\RandomBarrels\RandomBarrels\obj\Debug\RandomBarrels.csproj.CoreCompileInputs.cache
+D:\Учёба\2 курс\Прикладное прогрмирование\RanddomBarrels\RandomBarrels\RandomBarrels\obj\Debug\RandomBarrels.exe
+D:\Учёба\2 курс\Прикладное прогрмирование\RanddomBarrels\RandomBarrels\RandomBarrels\obj\Debug\RandomBarrels.pdb
