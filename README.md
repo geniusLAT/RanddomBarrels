@@ -12,5 +12,7 @@
   Пример работы N=10
 ## Описание среды
   Для открытия программы используется Microsoft Visual Studio 2017
+  
   Файл проекта RanddomBarrels\RandomBarrels\RandomBarrels.sln
+  
   Открыть скомпилированную версию можно RanddomBarrels\RandomBarrels\RandomBarrels\bin\Debug\RandomBarrels.exe
