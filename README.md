@@ -8,6 +8,7 @@
   Пример работы с некоректным вводом
   
   ![](https://sun9-74.userapi.com/impg/ha0YMklHxIhFzUUqpIUyXekrOG9lD_AvYXeOag/bZ5tqggJ8uU.jpg?size=351x326&quality=96&proxy=1&sign=e76d67d212816b7e49bb01399f0faca6&type=album)
+ 
   Пример работы N=10
 ## Описание среды
   Для открытия программы используется Microsoft Visual Studio 2017
